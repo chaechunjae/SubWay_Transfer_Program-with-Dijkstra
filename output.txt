@@ -1,0 +1,11 @@
+Build
+Build complete
+Read O
+Line number: 2
+U--4--O--3--T
+Line number: 3
+F--2--O
+Short U to P
+U--4--O--4--P
+Short B to J
+B--3--J

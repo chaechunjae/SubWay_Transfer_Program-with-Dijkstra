@@ -1,0 +1,15 @@
+Short 7 B P
+Build 9
+Least 7 B P
+Read 1 O
+Build 6
+Short 2 B J
+Least 3 A G
+Short 1 U P
+Read 10 S
+Least 19 U P
+Short 8 O E
+Short 99 C P
+Least 30 U F
+Read 66 Z
+Least 70 C P
